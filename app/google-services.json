@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179088098648",
+    "project_id": "saranghae-6c2a1",
+    "storage_bucket": "saranghae-6c2a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179088098648:android:596d1f9f19ed6a3e46d12d",
+        "android_client_info": {
+          "package_name": "com.vamsigutha.saranghae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179088098648-3bbvmhst2ukrh5l4a1crmamib50057rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6WxgnXFtS4RZTlQsjPVQK-a21NBtoSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179088098648-3bbvmhst2ukrh5l4a1crmamib50057rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
